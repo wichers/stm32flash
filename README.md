@@ -1,1 +1,1 @@
-stm32flash - Arduino flashing utility for STM32 through UART
+stm32flash - Arduino flashing utility for STM32 through UART/i2c
